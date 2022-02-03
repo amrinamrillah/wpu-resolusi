@@ -5,8 +5,10 @@ Rencana COntent WPU
   *Framework Javascript
   ^ angular
   ^ React 
+- Fundamental data structure/ strukture data dasar  
 -PHP Freamwork
  ^ laravel
  ^ YII
 -interview
 -vlogs
+-python
