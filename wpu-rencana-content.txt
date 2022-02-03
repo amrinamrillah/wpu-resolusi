@@ -1,6 +1,8 @@
 Rencana COntent WPU
 
 -Javascript
+  *ES6
+  *Framework Javascript
 -PHP Freamwork
 -interview
 -vlogs
